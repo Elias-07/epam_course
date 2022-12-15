@@ -1,3 +1,4 @@
 error
 good text
  Dooo som error
+nothing bad
