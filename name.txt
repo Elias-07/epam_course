@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 error
 good
+=======
+>>>>>>> parent of e59bf9b (error)
