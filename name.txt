@@ -1,1 +1,13 @@
 error
+good text
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+ Dooo som error
+nothing bad
+=======
+>>>>>>> parent of 6226ae1 (do error)
+=======
+>>>>>>> parent of 6226ae1 (do error)
+=======
+>>>>>>> parent of 6226ae1 (do error)
