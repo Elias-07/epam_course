@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 good
 
 
@@ -8,6 +7,3 @@ error
 
 good
  
-=======
-good 
->>>>>>> parent of 284ef31 (error)
